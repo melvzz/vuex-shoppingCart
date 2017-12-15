@@ -1,0 +1,30 @@
+{
+	"product": [
+		{ 
+			"id" : "1",
+			"name" : "红枣牛奶",
+			"oldPrice" : "8.5",
+			"price" : "6",
+			"sellCount" : "108"
+		},
+		{
+			"id" : "2",
+			"name" : "吱吱大鸡排",
+			"oldPrice" : "15",
+			"price" : "10",
+			"sellCount" : "68"
+		},
+		{
+			"id" : "3",
+			"name" : "芝士宇治抹茶",
+			"price" : "13",
+			"sellCount" : "89"
+		},
+		{
+			"id" : "4",
+			"name" : "庄园可可鲜奶",
+			"price" : "9",
+			"sellCount" : "55"
+		}
+	]
+}
